@@ -14,6 +14,10 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 
 > ## Refer package.json for command
 
+# Prerequisites
+- should have the testnet url eg. sepolia
+- good to have metamask private key
+- good to have coinmarketcap api
 # want to run this code ?
 
 - follow the below commands
